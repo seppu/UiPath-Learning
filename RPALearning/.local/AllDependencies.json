@@ -1071,15 +1071,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\d883166\\.nuget\\packages\\": {}
+    "C:\\Users\\disciple\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "RPALearning",
       "projectName": "RPALearning",
-      "projectPath": "C:\\Users\\d883166\\Documents\\UiPath\\UiPath-Learning\\RPALearning\\.local",
-      "packagesPath": "C:\\Users\\d883166\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\d883166\\Documents\\UiPath\\UiPath-Learning\\RPALearning\\.local"
+      "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\UiPath-Learning\\RPALearning\\.local",
+      "packagesPath": "C:\\Users\\disciple\\.nuget\\packages\\",
+      "outputPath": "\\\\Mac\\Home\\Documents\\GitHub\\UiPath-Learning\\RPALearning\\.local"
     },
     "frameworks": {
       "net461": {
